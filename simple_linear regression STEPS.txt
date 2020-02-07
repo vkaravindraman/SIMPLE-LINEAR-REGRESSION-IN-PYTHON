@@ -1,0 +1,8 @@
+STEPS TO FOLLOW SIMPLE LINEAR REGRESSION
+
+	1.import libraries (numpy,pandas,matplotlib)
+	2.Read the dataset using pandas
+	3.Splitting the dataset into the training and test sets
+	4.Fit the dataset from sklearn.Linear_model import Linear regression
+	5.predict the test dataset
+	6.visualising the test results in train and test
